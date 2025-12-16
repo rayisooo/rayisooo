@@ -37,6 +37,18 @@ Backend Engineer with a strong foundation in mobile development, specializing in
 ### Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+
+## 🚀 Featured Projects
+
+### [ANCNJ Registrations](https://ancnjregistrations.org)
+Registration platform for ANCNJ organization
+- 🔗 [Live Site](https://ancnjregistrations.org)
+
+### [Project Paul](https://projectpaul-fcf63.firebaseapp.com)
+Firebase-powered web application
+- 🔗 [Live Site](https://projectpaul-fcf63.firebaseapp.com)
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rayisooo&show_icons=true&theme=radical)
@@ -51,3 +63,6 @@ Backend Engineer with a strong foundation in mobile development, specializing in
 ---
 
 💡 *"Building scalable solutions, one commit at a time"*
+
+
+
