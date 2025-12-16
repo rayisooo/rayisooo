@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ray 👋
 
 ## 🚀 About Me
 
@@ -39,7 +39,7 @@ Backend Engineer with a strong foundation in mobile development, specializing in
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rayisooo&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 
