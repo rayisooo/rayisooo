@@ -3,7 +3,6 @@
 Software Engineer II at JPMorganChase building AI infrastructure for 200,000+ employees. I design backend API gateways, LLM inference pipelines, and MCP servers at enterprise scale — and build SaaS products on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-otoadese-758a2a102/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayisooo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raymondotoadese.web.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rexdrey@gmail.com)
 
@@ -80,13 +79,6 @@ Cross-platform desktop automation app orchestrating hybrid Puppeteer/Selenium bo
 > Python · WebSocket APIs · Firebase
 
 Fully automated crypto trading system using real-time WebSocket market data ingestion and continuous order execution. Implemented rule-based algorithmic strategies including trend-following models using SMA, EMA, RSI, and Bollinger Bands.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayisooo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayisooo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
