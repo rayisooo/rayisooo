@@ -3,7 +3,6 @@
 Software Engineer II at JPMorganChase building AI infrastructure for 200,000+ employees. I design backend API gateways, LLM inference pipelines, and MCP servers at enterprise scale — with a full-stack background that spans native iOS/Android to cloud infrastructure. Open to backend, mobile, and full-stack opportunities.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-otoadese-758a2a102/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayisooo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://raymondotoadese.web.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rexdrey@gmail.com)
  
