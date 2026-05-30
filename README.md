@@ -1,4 +1,4 @@
-# Ray Otoadese
+# Raymond Otoadese
 
 Software Engineer II at JPMorganChase building AI infrastructure for 200,000+ employees. I design backend API gateways, LLM inference pipelines, and MCP servers at enterprise scale — and build SaaS products on the side.
 
