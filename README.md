@@ -87,6 +87,5 @@ Fully automated crypto trading system using real-time WebSocket market data inge
 ---
  
 > Most of my production work lives in private repos — the above reflects personal projects.  
-> Day job: enterprise AI infrastructure at JPMorganChase.
 
 
