@@ -81,8 +81,12 @@ Cross-platform desktop automation app orchestrating hybrid Puppeteer/Selenium bo
  
 ### Automated Trading Bot
 > Python · WebSocket APIs · Firebase
- 
-Fully automated crypto trading system using real-time WebSocket market data ingestion and continuous order execution. Implemented rule-based algorithmic strategies including trend-following models using SMA, EMA, RSI, and Bollinger Bands.
+
+* Built a fully automated spot crypto trading system in Python integrating WebSocket market data
+ingestion with continuous limit-order execution across Robinhood and Gemini (BTC/ETH/DOGE).
+
+* Implemented backtesting (1h bars) plus a paper-trading harness and live tests to validate rule-based
+strategies (trend-following) using indicators (SMA, EMA, RSI, Bollinger Bands) with analysis in pandas/numpy
  
 ---
  
